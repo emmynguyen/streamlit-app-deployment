@@ -74,4 +74,4 @@ python3 -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
 10. If you were able to complete all of the steps without running into any errors, then you should be able to view your streamlit application and interact with it as intended.
 
 ### References
-Local Git deployment to Azure App Service: https://docs.microsoft.com/en-us/azure/app-service/deploy-local-git?tabs=cli
+[Local Git deployment to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/deploy-local-git?tabs=cli)
