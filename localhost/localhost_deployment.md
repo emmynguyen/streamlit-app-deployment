@@ -1,4 +1,5 @@
 # Deployment Option #1: localhost
+
 ## Reference
 [Official Streamlit Documentation](https://docs.streamlit.io/library/get-started/main-concepts)
 
