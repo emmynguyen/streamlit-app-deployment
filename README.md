@@ -3,32 +3,33 @@ Context: Streamlit application deployment consists of several options: localhost
 
 ## Deployment Options
 1. localhost
-2. Streamlit Community Cloud
-3. Cloud (i.e. AWS, Azure, GCP)
+2. Docker Image
+3. Streamlit Community Cloud
+4. Cloud (i.e. AWS, Azure, GCP)
 
 ## Option #1: localhost
-Reference: https://docs.streamlit.io/library/get-started/main-concepts
-Walkthrough: 
+Reference: https://docs.streamlit.io/library/get-started/main-concepts <br />
+Walkthrough: https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/localhost/localhost_deployment.md
 
 ## Option #2: Docker Image
 Reference: 
 Walkthrough: 
 
 ## Option #3: Streamlit Community Cloud
-Reference: https://docs.streamlit.io/streamlit-cloud
+Reference: https://docs.streamlit.io/streamlit-cloud <br />
 Walkthrough: https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app
 
 ## Option #4: Cloud Provider
-Reference: https://discuss.streamlit.io/t/streamlit-deployment-guide-wiki/5099
+Reference: https://discuss.streamlit.io/t/streamlit-deployment-guide-wiki/5099 <br />
 Walkthrough: 
 
 ### Azure
 #### Deployment Options
-**Option 1:** Deploy code from a local Git repository to an Azure App Service (Web App)
+**Option 1:** Deploy code from a local Git repository to an Azure App Service (Web App) <br />
 Walkthrough: 
 
-**Option 2:** Deploy code from an existing GitHub repository to an Azure App Service (Web App)
+**Option 2:** Deploy code from an existing GitHub repository to an Azure App Service (Web App) <br />
 Walkthrough: 
 
-**Option 3:** Deploy code from Azure Container Registry to an Azure Container Instance (Serverless App)
+**Option 3:** Deploy code from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
 Walkthrough:
