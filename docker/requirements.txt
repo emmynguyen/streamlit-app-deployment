@@ -1,0 +1,8 @@
+streamlit==1.11.1
+snowflake-snowpark-python==0.7.0
+snowflake-connector-python==2.7.9
+pandas==1.4.3
+numpy==1.23.1
+matplotlib==3.5.2
+seaborn==0.11.2
+pyarrow==6.0.0
