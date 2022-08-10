@@ -1,13 +1,15 @@
 # Deployment Option 3: Cloud Provider (Azure)
 
-## Azure Deployment Option #1: local git
+## Azure Deployment Option #1: Local Git Deployment to an Azure App Service (Web App)
 
 ### Prerequisites
 1. Have an Azure subscription.
 2. Requires a runtime stack (Python 3.7-3.9) with Linux as the OS.
 3. Requires an App Service Plan with a tier of B1 or higher.
 
-### Azure Setup - Part 1
+### Walkthrough
+
+#### Azure Setup - Part 1
 1. Open a browser and navigate to the following URL: portal.azure.com
 2. In the Azure Portal, click on the "+ Create a Resource".
 3. Looking at the list of popular Azure services, navigate to "Web App" (should be at the bottom of the list) and click on "Create".
@@ -34,7 +36,7 @@
     - Version: Python 3.8
 12. Once the Azure setup has been completed, continue to the local git setup.
 
-### Local Git Setup
+#### Local Git Setup
 1. Have a local Git repository with code you want to deploy.
 2. In the local Git repository, run the following command:
 ```
@@ -58,7 +60,7 @@ git push azure master
 ```
 7. Once the deployment has succeeded, continue to part 2 of the Azure setup.
 
-### Azure Setup - Part 2
+#### Azure Setup - Part 2
 1. Return to the webpage of the Azure App Service (Web App) you created.
 2. Navigate to the "Settings" section of the Azure App Service (Web App).
 3. Click on the "Configuration" tab that resides within the "Settings" section.
