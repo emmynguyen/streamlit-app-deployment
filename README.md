@@ -23,8 +23,9 @@ Walkthrough: [Deploy an App](https://docs.streamlit.io/streamlit-cloud/get-start
 Reference: [Streamlit Deployment Guide Wiki](https://discuss.streamlit.io/t/streamlit-deployment-guide-wiki/5099) <br />
 Walkthrough: 
 
-### Azure
-#### Deployment Options
+### AWS Deployment Options
+
+### Azure Deployment Options
 **Option 1:** Deploy code from a local Git repository to an Azure App Service (Web App) <br />
 Walkthrough: [Local Git Deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/azure/localgit_deployment.md)
 
@@ -33,3 +34,5 @@ Walkthrough:
 
 **Option 3:** Deploy code from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
 Walkthrough:
+
+### GCP Deployment Options
