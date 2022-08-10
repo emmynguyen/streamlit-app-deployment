@@ -8,31 +8,31 @@
 4. Cloud (i.e. AWS, Azure, GCP)
 
 ## Option #1: localhost
-Reference: [Get Started](https://docs.streamlit.io/library/get-started/main-concepts) <br />
-Walkthrough: [localhost deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/localhost/localhost_deployment.md)
+**Reference:** [Get Started](https://docs.streamlit.io/library/get-started/main-concepts) <br />
+**Walkthrough:** [localhost deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/localhost/localhost_deployment.md)
 
 ## Option #2: Docker Image
-Reference: <br />
-Walkthrough: 
+**Reference:** <br />
+**Walkthrough:** 
 
 ## Option #3: Streamlit Community Cloud
-Reference: [Streamlit Cloud](https://docs.streamlit.io/streamlit-cloud) <br />
-Walkthrough: [Deploy an App](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app)
+**Reference:** [Streamlit Cloud](https://docs.streamlit.io/streamlit-cloud) <br />
+**Walkthrough:** [Deploy an App](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app)
 
 ## Option #4: Cloud Provider
-Reference: [Streamlit Deployment Guide Wiki](https://discuss.streamlit.io/t/streamlit-deployment-guide-wiki/5099) <br />
-Walkthrough: 
-
-### AWS Deployment Options
+**Reference:** [Streamlit Deployment Guide Wiki](https://discuss.streamlit.io/t/streamlit-deployment-guide-wiki/5099) <br />
+**Walkthrough:** 
 
 ### Azure Deployment Options
 **Option 1:** Deploy code from a local Git repository to an Azure App Service (Web App) <br />
-Walkthrough: [Local Git Deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/azure/localgit_deployment.md)
+**Walkthrough:** [Local Git Deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/azure/localgit_deployment.md)
 
 **Option 2:** Deploy code from an existing GitHub repository to an Azure App Service (Web App) <br />
-Walkthrough: 
+**Walkthrough:**
 
 **Option 3:** Deploy code from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
 Walkthrough:
+
+### AWS Deployment Options
 
 ### GCP Deployment Options
