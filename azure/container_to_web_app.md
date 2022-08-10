@@ -105,8 +105,8 @@ python3 -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
 10. If you were able to complete all of the steps without running into any errors, then you should be able to view your streamlit application and interact with it as intended.
 
 ### References
-[Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-[docker image build](https://docs.docker.com/engine/reference/commandline/image_build/)
-[docker run](https://docs.docker.com/engine/reference/commandline/run/)
-[Deploy a Streamlit Web App with Azure App Service](https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743)
+[Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)  <br />
+[docker image build](https://docs.docker.com/engine/reference/commandline/image_build/)  <br />
+[docker run](https://docs.docker.com/engine/reference/commandline/run/)  <br />
+[Deploy a Streamlit Web App with Azure App Service](https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743)  <br />
 [Beginner Guide to Streamlit Deployment on Azure](https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9)

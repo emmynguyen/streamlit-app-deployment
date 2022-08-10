@@ -50,6 +50,6 @@ localhost:8880
     - **Important:** Be sure to stop your container when you are done.
 
 ## References
-[Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-[docker image build](https://docs.docker.com/engine/reference/commandline/image_build/)
+[Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)  <br />
+[docker image build](https://docs.docker.com/engine/reference/commandline/image_build/)  <br />
 [docker run](https://docs.docker.com/engine/reference/commandline/run/)
