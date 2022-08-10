@@ -13,11 +13,11 @@
 python -m venv venv
 ```
 7. Activate the virtual environment that was just created. </br>
-For Linux:
+- For Linux:
 ```
 source ./venv/bin/activate
 ```
-For Windows:
+- For Windows:
 ```
 venv\Scripts\activate
 ```
