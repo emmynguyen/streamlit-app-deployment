@@ -59,11 +59,11 @@ git push azure master
 3. Click on the "Configuration" tab that resides within the "Settings" section.
 4. Click on the "General Settings" tab within the "Configuration" page.
 5. For the Startup Command, type in the following command: </br>
-If using python:
+- If using python:
 ```
 python -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
 ```
-If using python3:
+- If using python3:
 ```
 python3 -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
 ```
