@@ -77,7 +77,7 @@ python3 -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
 6. Click on the "Save" button to save the change.
 7. Then, navigate to the "Overview" tab of your Azure App Service (Web App).
 8. Click on the "Refresh" button.
-9. Once your Azure App Service (Web App) has finished refreshing itself, click on the URL: https://<web_app_name>.azurewebsites.net
+9. Once the Azure App Service (Web App) has finished refreshing itself, click on the URL: https://<web_app_name>.azurewebsites.net
 10. If you were able to complete all of the steps without running into any errors, then you should be able to view your streamlit application and interact with it as intended.
 
 ### References
