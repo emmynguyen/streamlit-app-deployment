@@ -1,6 +1,11 @@
-# Deployment Option 3: Cloud Provider
+# Deployment Option 3: Cloud Provider (Azure)
 
 ## Azure Deployment Option #1: local git
+
+### Prerequisites
+1. Have an Azure subscription.
+2. Requires a runtime stack (Python 3.7-3.9) with Linux as the OS.
+3. Requires an App Service Plan with a tier of B1 or higher.
 
 ### Azure Setup - Part 1
 1. Open a browser and navigate to the following URL: portal.azure.com
@@ -14,7 +19,7 @@
     - Runtime Stack - choose the "Python 3.8" option
     - Operating System - this should default to Linux
     - Region
-    - App Service Plan - choose the option that is in line with your app (demo tutorials use B1)
+    - App Service Plan - choose the option that is in line with your app (recommendation: tier of B1 or higher)
 5. Once you have filled in the required information, review and create the Azure App Service (Web App).
 6. After the Web App deployment has completed, navigate to the Azure App Service (Web App).
 7. On the Azure App Service (Web App) page, navigate to the "Deployment" section and click on the "Deployment Center" option.
