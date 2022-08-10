@@ -30,7 +30,7 @@
 **Walkthrough:** [Code Deployment to Azure App Service](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/azure/code_to_web_app.md)
 
 **Option 3:** Deploy a Docker Image from Azure Container Registry to an Azure App Service (Web App) <br />
-**Walkthrough:** [Container Deployment to Azure Container Instance](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/azure/container_to_web_app.md)
+**Walkthrough:** [Container Deployment to Azure App Service](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/azure/container_to_web_app.md)
 
 **Option 4:** Deploy a Docker Image from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
 **Walkthrough:**
