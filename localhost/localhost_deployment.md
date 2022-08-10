@@ -12,7 +12,7 @@
 ```
 python -m venv venv
 ```
-7. Activate the virtual environment that was just created. </br>
+7. Activate the virtual environment that was just created. <br />
 - For Linux:
 ```
 source ./venv/bin/activate

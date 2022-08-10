@@ -58,7 +58,7 @@ git push azure master
 2. Navigate to the "Settings" section of the Azure App Service (Web App).
 3. Click on the "Configuration" tab that resides within the "Settings" section.
 4. Click on the "General Settings" tab within the "Configuration" page.
-5. For the Startup Command, type in the following command: </br>
+5. For the Startup Command, type in the following command: <br />
 - If using python:
 ```
 python -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0

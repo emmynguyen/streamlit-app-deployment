@@ -12,7 +12,7 @@ Reference: [Get Started](https://docs.streamlit.io/library/get-started/main-conc
 Walkthrough: [localhost deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/localhost/localhost_deployment.md)
 
 ## Option #2: Docker Image
-Reference: 
+Reference: <br />
 Walkthrough: 
 
 ## Option #3: Streamlit Community Cloud
