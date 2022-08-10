@@ -31,7 +31,7 @@
 **Walkthrough:**
 
 **Option 3:** Deploy code from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
-Walkthrough:
+**Walkthrough:**
 
 ### AWS Deployment Options
 
