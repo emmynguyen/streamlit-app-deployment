@@ -9,11 +9,11 @@
 
 ## Option #1: localhost
 **Reference:** [Get Started](https://docs.streamlit.io/library/get-started/main-concepts) <br />
-**Walkthrough:** [localhost deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/localhost/localhost_deployment.md)
+**Walkthrough:** [localhost deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/localhost/localhost_deployment.md)
 
 ## Option #2: Docker Image
-**Reference:** <br />
-**Walkthrough:** 
+**Reference:** [Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) <br />
+**Walkthrough:** [Docker Container + Image to localhost](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/docker/docker.md)
 
 ## Option #3: Streamlit Community Cloud
 **Reference:** [Streamlit Cloud](https://docs.streamlit.io/streamlit-cloud) <br />
@@ -21,16 +21,18 @@
 
 ## Option #4: Cloud Provider
 **Reference:** [Streamlit Deployment Guide Wiki](https://discuss.streamlit.io/t/streamlit-deployment-guide-wiki/5099) <br />
-**Walkthrough:** 
 
 ### Azure Deployment Options
 **Option 1:** Deploy code from a local Git repository to an Azure App Service (Web App) <br />
-**Walkthrough:** [Local Git Deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/dev/azure/localgit_deployment.md)
+**Walkthrough:** [Local Git Deployment](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/azure/localgit_to_web_app.md)
 
 **Option 2:** Deploy code from an existing GitHub repository to an Azure App Service (Web App) <br />
-**Walkthrough:**
+**Walkthrough:** [Code Deployment to Azure App Service](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/azure/code_to_web_app.md)
 
-**Option 3:** Deploy code from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
+**Option 3:** Deploy a Docker Image from Azure Container Registry to an Azure App Service (Web App) <br />
+**Walkthrough:** [Container Deployment to Azure Container Instance](https://github.com/thedatarubicon/streamlit-app-deployment/blob/main/azure/container_to_web_app.md)
+
+**Option 4:** Deploy a Docker Image from Azure Container Registry to an Azure Container Instance (Serverless App) <br />
 **Walkthrough:**
 
 ### AWS Deployment Options
